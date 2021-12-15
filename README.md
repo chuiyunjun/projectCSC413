@@ -1,4 +1,4 @@
-# CSC413/2516 Neural Networks and Deep Learning Course project
+# Two new Adam optimizers, AdaBelief and Padam
 **Authors: Haozhe Sun, Chi Zhang, Zhaoyang Zhu
 
 ## | [Report](./writeup/report.pdf) |
